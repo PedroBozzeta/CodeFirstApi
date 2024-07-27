@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst.Api", "CodeFirst.Api\CodeFirst.Api.csproj", "{03274D14-F6C6-4BD9-A392-A1AA5B90421D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codefirst.DB", "Codefirst.DB\Codefirst.DB.csproj", "{019CB762-5268-4DD2-8940-29ED3E43E592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03274D14-F6C6-4BD9-A392-A1AA5B90421D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03274D14-F6C6-4BD9-A392-A1AA5B90421D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03274D14-F6C6-4BD9-A392-A1AA5B90421D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03274D14-F6C6-4BD9-A392-A1AA5B90421D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{019CB762-5268-4DD2-8940-29ED3E43E592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019CB762-5268-4DD2-8940-29ED3E43E592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019CB762-5268-4DD2-8940-29ED3E43E592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019CB762-5268-4DD2-8940-29ED3E43E592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CDB5D98-0698-45BD-AB3F-2178DCCE18A7}
+	EndGlobalSection
+EndGlobal

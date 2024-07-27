@@ -1,0 +1,14 @@
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\bin\Debug\net8.0\Codefirst.DB.deps.json
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\bin\Debug\net8.0\Codefirst.DB.runtimeconfig.json
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\bin\Debug\net8.0\Codefirst.DB.dll
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\bin\Debug\net8.0\Codefirst.DB.pdb
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\Codefirst.DB.csproj.AssemblyReference.cache
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\Codefirst.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\Codefirst.DB.AssemblyInfoInputs.cache
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\Codefirst.DB.AssemblyInfo.cs
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\Codefirst.DB.csproj.CoreCompileInputs.cache
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\Codefirst.DB.dll
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\refint\Codefirst.DB.dll
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\Codefirst.DB.pdb
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\Codefirst.DB.genruntimeconfig.cache
+D:\Proyectos Software\CodeFirstC#\CodeFirst.Api\Codefirst.DB\obj\Debug\net8.0\ref\Codefirst.DB.dll
